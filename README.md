@@ -1,4 +1,4 @@
-# Reproduction of Ben Awad's code after seeing his video.
+### Reproduction of Ben Awad's code after having seen  his video.
 
 Check his video here : https://www.youtube.com/watch?v=DvVt11mPuM0
 
